@@ -4,7 +4,7 @@
 
 本專案僅用來快速理解CNN二值問題的邏輯要領與快速實作之簡易程序
 
-# DogCatCNNAlgorithm.ipynb
+# 關於DogCatCNNAlgorithm.ipynb
 
 經典範例--貓狗判斷程式(僅100張的訓練)
 
