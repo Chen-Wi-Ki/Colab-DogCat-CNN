@@ -12,7 +12,7 @@
 
 小結:若貓狗圖各50張的訓練,結果是難以實現辨識,這可能需要千張或萬張以上才可能實現的功能...
 
-#關於Sin Test for CNN 2Value Verify.ipynb
+# 關於Sin Test for CNN 2Value Verify.ipynb
 
 我利用了sin波做二值辨識測試,用處是驗證CNN系統在限制許多條件後能否以少量圖實現辨識能力？
 
